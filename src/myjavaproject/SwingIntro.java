@@ -20,7 +20,7 @@ public class SwingIntro {
         JFrame frame = new JFrame("MyFrame");
         //JFrame sınıfından frame isimli bir nesne oluşturduk ve aekarana myframe isimi ile geldi.
 
-        frame.setSize(400, 400);
+        frame.setSize(500, 500);
         //en boy olarak pixel cinsinden girdik.
 
         frame.setLocationRelativeTo(null);
